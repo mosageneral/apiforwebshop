@@ -7,6 +7,6 @@ namespace apiforwebshop.Models
 {
     public class product
     {
-
+       //test
     }
 }
